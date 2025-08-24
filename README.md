@@ -1,17 +1,6 @@
 👋Hi, my name is 
 <h1><b>Chaitanya Palghadmal</b></h1>
 <h3>I'm a Data Wizard🧙‍♂️.</h3>
-<p>
-  My models see the past, present, and future, with <b>precision</b>.<br/>
-  I'm
-    <a
-      href="https://www.britannica.com/story/nostradamus-and-his-prophecies"
-      target="_blank"
-      rel="noreferrer">
-      Nostradamus,
-    </a>
-  but better.
-</p>
 
 <img src="michaelburrydrumming.gif" width=60%>
 
