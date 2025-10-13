@@ -11,7 +11,7 @@
     I’ve had the privilege of working as a self-employed currency trader, a consulting data scientist, & a web
     development intern at PCET, Pune. My main focus these days is on studying, researching, and
     developing models using novel predictive machine learning and
-    reinforcement learning approaches in a quantitative investment context.
+    reinforcement learning approaches in a quantitative investment context, and on competitive programming.
   </p>
 </div>
     
