@@ -1,6 +1,5 @@
 👋Hi, my name is 
 <h1><b>Chaitanya Palghadmal</b></h1>
-<h3>I'm a Data Wizard🧙‍♂️.</h3>
 
 <img src="michaelburrydrumming.gif" width=60%>
 
@@ -9,7 +8,7 @@
     I enjoy building data-driven solutions and models that solve all kinds of complex problems.
   </p>
   <p>
-    I’ve had the privilege of working as a self-employed currency trader & a web
+    I’ve had the privilege of working as a self-employed currency trader, a consulting data scientist, & a web
     development intern at PCET, Pune. My main focus these days is on studying, researching, and
     developing models using novel predictive machine learning and
     reinforcement learning approaches in a quantitative investment context.
