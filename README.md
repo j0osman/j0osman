@@ -1,5 +1,5 @@
 # Chaitanya | Data Scientist & Algorithmic Specialist
-**1000+ Codeforces Solves (Top 0.6% globally)** | **UWindsor M.S.** | **Ex-Consultant (Insurance)**
+**1000+ Codeforces Solves (Top 0.6% globally by solve count)** | **UWindsor MoM Business Data Analytics** | **Ex-Consultant (Insurance)**
 
 <img src="michaelburrydrumming.gif" width=60%>
 
