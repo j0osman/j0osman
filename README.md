@@ -1,36 +1,22 @@
-👋Hi, my name is 
-<h1><b>Chaitanya Palghadmal</b></h1>
+# Chaitanya | Data Scientist & Algorithmic Specialist
+**1000+ Codeforces Solves (Top 0.6% globally)** | **UWindsor M.S.** | **Ex-Consultant (Insurance)**
 
 <img src="michaelburrydrumming.gif" width=60%>
 
-<div>
-  <p>
-    I enjoy building data-driven solutions and models that solve all kinds of complex problems.
-  </p>
-  <p>
-    I’ve had the privilege of working as a consulting data scientist for an insurance provider under NDA, and as a web
-    development intern at PCET, Pune. My main focus these days is on studying, researching, and
-    developing models using novel predictive machine learning and
-    reinforcement learning approaches in a quantitative investment context, and on competitive programming.
-  </p>
-</div>
-    
-```
-print("Things I can do:
-       \n\n
+I build robust, production-ready ML systems for high-stakes forecasting and sequential decision-making. I specialize in translating noisy, real-world data into high-accuracy predictive models with a focus on engineering rigor and deployment constraints.
 
-      * Quantitative Analysis\n
-      * Algorithmic Trading\n
-      * Deep Learning & Machine Learning\n
-      * Data Analysis & Visualization\n
-      * Programming & Software Development\n
-      * Team Leadership & Collaboration\n
-      
-     ")
-```
+### 🚀 Technical Proof of Work
+* **Forecasting Pipeline (<5% MAPE):** Built an MLP-based time-series forecasting system for a major insurer (NDA). Improved operational efficiency by 20% through optimized workforce planning.
+* **Sequential Decision Models:** Researching RL-based policy design with explicit handling of transaction costs and market slippage.
+* **Multi-Branch LSTMs:** Architectural deep-dive into high-dimensional time-series forecasting (See pinned LSTM writeup for design decisions and bottlenecks).
 
-<h3>Let's work together!</h3>
+### 🛠 Tools
+* **Languages:** Python (Expert), C++, SQL, Linux.
+* **Frameworks:** PyTorch, TensorFlow, Scikit-Learn.
+* **Infrastructure:** AWS (EC2), Docker, Git.
 
+---
+**https://codeforces.com/profile/j0osman** | **https://www.linkedin.com/in/chaitanyap14**
 <div id="badges">
   <a href="https://www.linkedin.com/in/chaitanyap14">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
