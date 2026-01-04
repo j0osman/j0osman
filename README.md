@@ -21,7 +21,7 @@ I build robust, production-ready ML systems for high-stakes forecasting and sequ
   <a href="https://www.linkedin.com/in/chaitanyap14">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <h2>|</h2>
+  
   <a href="https://codeforces.com/profile/j0osman">
     <img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" alt="Codeforces Badge"/>
   </a>
